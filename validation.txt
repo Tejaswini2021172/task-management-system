@@ -1,0 +1,3 @@
+Username should not be empty
+Password must be at least 6 characters
+Email must contain @
